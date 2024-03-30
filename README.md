@@ -7,7 +7,7 @@ This is a Flask web application that performs object detection on images using F
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Mahi-29/object_detection_using_detectron2.git
     ```
 
 2. Install the required packages:
@@ -37,6 +37,8 @@ This is a Flask web application that performs object detection on images using F
 
 ## UI
 ![Image Description](images/ui_image.png)
+
+
 ## Directory Structure
 
 - `app.py`: Main Flask application file.
